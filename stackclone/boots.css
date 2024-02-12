@@ -1,0 +1,42 @@
+nav{
+   border-bottom:1px solid rgba(128, 128, 128, 0.349); 
+   position: fixed;
+   
+}
+a:hover{
+    background-color:rgba(128, 128, 128, 0.349);
+}
+
+#b{
+    display: flex;
+}
+ul{
+    border-right: 1px solid rgba(128, 128, 128, 0.349);
+   
+}
+p:hover{
+    background-color:rgba(128, 128, 128, 0.349);
+}
+l{
+    display:flex;
+    
+}
+z{
+    color: rgb(41, 172, 215);
+    border: 1px solid rgb(41, 172, 215);
+    border-radius: 12px;
+    padding: 5px;
+}
+z:hover{
+    color: white;
+    background-color:rgb(41, 172, 215) ;
+    border-color: white;
+    border-radius: 12px;
+    padding: 5px;
+}
+content6{
+    padding:10px;
+    background-color:rgba(196, 200, 200, 0.239);
+    display:flex;
+
+}
